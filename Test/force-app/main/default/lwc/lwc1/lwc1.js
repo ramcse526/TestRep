@@ -1,3 +1,5 @@
 import { LightningElement } from 'lwc';
 
-export default class Lwc1 extends LightningElement {}
+export default class Lwc1 extends LightningElement {
+    name='Krishna';
+}
